@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Welcome to Michael Gill's GitHub Profile.
+Welcome to Michael Gill's GitHub/GitLab Profile.
 
 ## Intro
 
@@ -13,10 +13,10 @@ Welcome to Michael Gill's GitHub Profile.
 
 ## Get in Touch
 
-| 🌐 | 🧑 | 💼 |
-| -- | -- | -- |
-| <a href="https://elthevoypra.dev/about/#michael-gill"><img alt="About me" src="https://img.shields.io/badge/about-me-blue" height="36"></a> | <a href="https://linkedin.com/in/mg4a" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg" alt="LinkedIn" height="36"/></a> | <a href="https://contra.com/michael_gill_pc7022zf" target="_blank"><img src="assets/3rdparty/contra-logo.svg" alt="Contra logo"/><img src="assets/3rdparty/contra-banner.svg" alt="Contra banner"/></a> |
-| <a href="https://elthevoypra.dev/"><img src="https://elthevoypra.dev/company-logo.v1.png" alt="Elthevoypra logo" height="36"/></a> |   | <a href="https://www.upwork.com/freelancers/~01e1ad2110ecd00d42" target="_blank"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" alt="Upwork" height="36"/></a> |
+| 🌐 | 🧑‍💻 | 🧑 | 💼 |
+| -- | -- | -- | -- |
+| <a href="https://elthevoypra.dev/about/#michael-gill"><img alt="About me" src="https://img.shields.io/badge/about-me-blue" height="36"></a> | <a href="https://github.com/k463" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="36"/></a> | <a href="https://linkedin.com/in/mg4a" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg" alt="LinkedIn" height="36"/></a> | <a href="https://contra.com/michael_gill_pc7022zf" target="_blank"><img src="assets/3rdparty/contra-logo.svg" alt="Contra logo"/><img src="assets/3rdparty/contra-banner.svg" alt="Contra banner"/></a> |
+| <a href="https://elthevoypra.dev/"><img src="https://elthevoypra.dev/company-logo.v1.png" alt="Elthevoypra logo" height="36"/></a> | <a href="https://gitlab.com/k463" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="36"/></a> |   | <a href="https://www.upwork.com/freelancers/~01e1ad2110ecd00d42" target="_blank"><img src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" alt="Upwork" height="36"/></a> |
 
 ## Technologies & Tools
 
